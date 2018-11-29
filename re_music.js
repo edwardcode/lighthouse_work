@@ -9,7 +9,7 @@ var library = {
                    album: "WWDC 2003"},
             t03: { id: "t03",
                    name: "Four Thirty-Three",
-                   artist: "John Caged",
+                   artist: "John Cage",
                    album: "Woodstock 1952"}
           },
 
